@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## My Github Stats:
-![snowcore8's github stats](https://github-readme-stats.vercel.app/api?username=snowcore8&icon_color=ff4081&title_color=ff4081&theme=dark&show_icons=true)
+![snowcore8's github stats](https://github-readme-stats.vercel.app/api?username=snowcore8&title_color=ff4081&theme=dark&show_icons=true)
