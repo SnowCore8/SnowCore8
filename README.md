@@ -1,19 +1,14 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.nullptr.icu/grs/api?username=SnowCore8&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+  <img src="https://api.nullptr.icu/grs/api?username=SnowCore8&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+</picture>
 
-<!--
-**SnowCore8/SnowCore8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.nullptr.icu/grs/api/top-langs/?username=SnowCore8&layout=compact&theme=onedark&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
+  <img src="https://api.nullptr.icu/grs/api/top-langs/?username=SnowCore8&layout=compact&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
+</picture>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## My Github Stats:
-![snowcore8's github stats](https://github-readme-stats.vercel.app/api?username=snowcore8&title_color=ff4081&theme=dark&show_icons=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.nullptr.icu/grs/api/wakatime?username=SnowCore8&layout=compact&theme=onedark&hide=ObjectiveC,Objective-C,Text,Gitignore%20File,Properties">
+  <img src="https://api.nullptr.icu/grs/api/wakatime?username=SnowCore8&layout=compact&hide=ObjectiveC,Objective-C,Text,Gitignore%20File,Properties">
+</picture>
